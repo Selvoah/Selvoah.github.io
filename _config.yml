@@ -6,7 +6,7 @@ baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-author: Sal
+author: the desk edit team
 paginate: 30
 disqus: 'demowebsite'
 locale: en_us
