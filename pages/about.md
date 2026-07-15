@@ -5,11 +5,11 @@ permalink: "/about/"
 image: assets/images/screenshot.png
 ---
 
-This website is a demonstration to see **Affiliates Jekyll theme** in action. 
+Welcome to The Desk Edit.
 
-The theme is compatible with Github pages. This demo is created with Github Pages and hosted with Github. 
+I'm on a mission to find the best budget-friendly gadgets and accessories that actually make your workspace better — without the $500 price tags.
 
-Everything is ready for your quick setup: Blog, Categories, About, Privacy Policy, Terms of Use, Contact form, Mailchimp
+Everything featured here is researched carefully, so you can skip the hours of scrolling and just get the gear that's actually worth it.
 
-[Get it here](https://bootstrapstarter.com/jekyll-theme-memoirs/)
+Have a question or a product you think deserves a spot? [Reach out](/contact/) — I'd love to hear from you.
 
