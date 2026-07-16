@@ -5,33 +5,26 @@ permalink: /privacy-policy/
 comments: false
 ---
 
-### Information that is gathered from visitors
-In common with other websites, log files are stored on the web server saving details such as the visitor's IP address, browser type, referring page and time of visit.
+### Information We Collect
 
-Cookies may be used to remember visitor preferences when interacting with the website.
+Like most websites, we collect standard log data such as your IP address, browser type, referring page, and time of visit. This helps us understand how visitors use the site.
 
-Where registration is required, the visitor's email and a username will be stored on the server.
+Cookies may be used to remember your preferences while browsing.
 
-### How the Information is used
-The information is used to enhance the vistor's experience when using the website to display personalised content and possibly advertising.
+If you sign up for our newsletter, we store your email address to send you updates.
 
-E-mail addresses will not be sold, rented or leased to 3rd parties.
+### How Information Is Used
 
-E-mail may be sent to inform you of news of our services or offers by us or our affiliates.
+We use this information to improve your experience on the site. Your email address will never be sold, rented, or shared with third parties. We may occasionally send updates about new content or product recommendations.
 
-### Visitor Options
-If you have subscribed to one of our services, you may unsubscribe by following the instructions which are included in e-mail that you receive.
+### Affiliate Links & Cookies
 
-You may be able to block cookies via your browser settings but this may prevent you from access to certain features of the website.
+The Desk Edit is a participant in the Amazon Services LLC Associates Program. As part of this program, links to Amazon may use cookies to track referrals, which may result in us earning a commission on qualifying purchases. This does not affect the price you pay. See our [Affiliate Disclosure](/disclosure/) for more details.
 
-### Cookies
-Cookies are small digital signature files that are stored by your web browser that allow your preferences to be recorded when visiting the website. Also they may be used to track your return visits to the website.
+### Your Choices
 
-3rd party advertising companies may also use cookies for tracking purposes.
+You can block cookies through your browser settings, though this may limit some site features. If you've subscribed to our newsletter, you can unsubscribe at any time using the link in any email you receive.
 
-### Google Ads
-Google, as a third party vendor, uses cookies to serve ads.
+### Contact
 
-Google's use of the DART cookie enables it to serve ads to visitors based on their visit to sites they visit on the Internet.
-
-Website visitors may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+If you have questions about this policy, please [reach out](/contact/).
